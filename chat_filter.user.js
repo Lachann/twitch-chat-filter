@@ -378,6 +378,7 @@ var TPP_COMMANDS = [
     "a", "b",
     "l", "r",
     "demo", "baby", "auto", "banm", "menu", "auto-walk", "no menu", "auto walk", "roll",
+    "banmenu", "unbanmenu", "chaos",
     "democracy", "anarchy", "wait"
 ];
 
