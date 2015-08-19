@@ -379,6 +379,7 @@ var TPP_COMMANDS = [
     "l", "r",
     "demo", "baby", "auto", "banm", "menu", "auto-walk", "no menu", "auto walk", "roll",
     "banmenu", "unbanmenu", "chaos",
+    "delayup", "delayu", "delaydn", "delayd",
     "democracy", "anarchy", "wait"
 ];
 
